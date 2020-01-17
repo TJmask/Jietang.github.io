@@ -46,7 +46,7 @@ Skills
 * Git: Versional Control, Collaborative Programming
 * Tableau: Interactive Dashboards, Informational Visualizations;
 * Statistics: Analytics, Forecasting, Statistical modeling;
-* Machine Learning:(Supervised) Xgboost, KNN, Logistics regression, Lasso, Decision Trees, Random Forests; (Unsupervised) PCA, K means clustering
+* Machine Learning:(Supervised) Xgboost, KNN, Logistics regression, Lasso, Decision Trees, Random Forests; (Unsupervised) PCA, K means clustering, HMM
   
 Service and leadership
 ======
