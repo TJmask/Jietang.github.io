@@ -1,5 +1,5 @@
 ---
-title: "project item number 1"
+title: "Airbnb project"
 excerpt: 'This paper is about the project 1. The number 2 is left for future work.'
 collection: projects
 permalink: /project/Airbnb_project/
