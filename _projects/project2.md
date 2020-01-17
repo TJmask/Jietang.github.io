@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'Project 2'
 date: 2012-08-14
 permalink: /posts/project2/
 tags:
