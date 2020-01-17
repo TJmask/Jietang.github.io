@@ -63,5 +63,5 @@ Service and leadership
   * Sorted out the new-coming books; Classified the returned books in library
 * Math Tutor
   * Helped students with calculus homework and tests; Helped professor grade the math homework and held workshops to improve students’ math abilities
-* leading Singer
+* Leading Singer
   * Performed at many sorts of parties in different colleges; Participated in several school-rock-band concerts
