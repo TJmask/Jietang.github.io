@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 My Technical Skills: 
 SQL: basics, joins, aggregate functions, subquery, window functions;
 R: tidyverse, data table, ggplot2;
