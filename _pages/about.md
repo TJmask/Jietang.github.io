@@ -19,7 +19,7 @@ redirect_from:
 ## Interests
 
 * I am a big fan of music. Once I established a music band and I was the leading singer.
-* I love long-distance running. I ran the third-ring road in Chengdu(30 miles) within 2 days.
+* I love long-distance running. I completed running the third-ring road in Chengdu(30 miles) within 2 days.
 
 
 
