@@ -51,7 +51,7 @@ Skills
 Service and leadership
 ======
 * Volunteer
-  * Helped the local charity house clean up homeless children’s clothes in Charity; performed for those children; cooked a meal for them
+  * Helped the local charity house clean up homeless children’s clothes; performed for those children; cooked a meal for them
   * Sorted out the new-coming books; Classified the returned books in library
 * Math Tutor
   * Helped students with calculus homework and tests; Helped professor grade the math homework and held workshops to improve students’ math abilities
