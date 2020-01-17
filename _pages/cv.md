@@ -40,31 +40,28 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Numpy,Pandas, Scikitlearn, Matplotlib, Seaborn, TA
+* R
+  * Tidyverse, Data Table, ggplot2
+* SQL
+  * Basics, Joins, Aggregate Functions, Subquery, Window Functions
+* Git
+  * Versional Control, Collaborative Programming
+* Tableau
+  * Interactive Dashboards, Informational Visualizations;
+* Statistics
+  * Analytics, Forecasting, Statistical modeling;
+* Machine Learning
+  * (Supervised) Xgboost, KNN, Logistics regression, Lasso, Decision Trees, Random Forests; (Unsupervised) PCA, K means clustering
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer
+  * Helped the local charity house clean up homeless children’s clothes in Charity; performed for those children; cooked a meal for them
+  * Sorted out the new-coming books; Classified the returned books in library
+* Math Tutor
+  * Helped students with calculus homework and tests; Helped professor grade the math homework and held workshops to improve students’ math abilities
+* leading Singer
+  * Performed at many sorts of parties in different colleges; Participated in several school-rock-band concerts
