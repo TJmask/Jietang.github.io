@@ -16,7 +16,7 @@ Tableau: interactive dashboards, informational visualizations;
 Statistics: Analytics, Forecasting,  Statistical modeling;
 Machine Learning: (Supervised) Xgboost, KNN, Logistics regression, Lasso, Decision Trees, Random Forests; (Unsupervised) PCA, K means clustering  
 
-My industry experience: Marketing | Finance | Healthcare
+My industry experience: Marketing, Finance, Healthcare
 
 
 I am currently a 1st year Master of Science in Business Analytics student at Brandeis University. I am focusing on Python, R, SQL, Tableau as well as Git. My undergraduate degree is Financial Engineering and I earned that degree in Sichuan University Chengdu, China. 
