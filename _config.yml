@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JIE TANG"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Jie Tang"
 description              : &description "JIE TANG"
