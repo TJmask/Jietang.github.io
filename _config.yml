@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jie Tang"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/TJmask/tjmask.github.io/blob/master/images/LinkedIn.jpg"
   bio              : "1st year MSBA Student at Brandeis University, focusing on Python, R, SQL, Tabealu, Machine Learning, Data Analytics"
   location         : "Waltham, MA"
   employer         :
