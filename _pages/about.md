@@ -1,11 +1,12 @@
 ---
 permalink: /
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About Me
 
 My Technical Skills: 
 SQL: basics, joins, aggregate functions, subquery, window functions;
