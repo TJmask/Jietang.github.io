@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: 'China Futures Predicting'
+excerpt: 'This Project is in projgress using Python. I am currently working on the EAD of Copper in China Futures Market. We aim to find useful patterns and features, and utilize machine learning and deep learning to determine the right timing to buy and sell'
 collection: projects
-permalink: /projects/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /project/China_Futures_Project/
+tags:
+  - Futures
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+The Main Work
+------
+* Doing DEA to find useful patterns and features
+* Implementing feature engineering 
+* Applied machine learning(Xgboost, Random Forest, etc) and deep learning(reinforement learning) to determine the right timing to buy and sell
+ 
+[Codes](https://github.com/TJmask/Cu-EDA)
