@@ -1,10 +1,10 @@
 ---
-title: 'Healthcare Analytics Project'
-excerpt: 'This project is about predicting the daily housing price of Airbnb in Boston Area'
+title: 'Healthcare Analytics Projects'
+excerpt: 'This is our projects in Healthcare Analytics and Data Mining course, which provides insights in healthcare industry'
 collection: projects
 permalink: /project/Healthcare_Analytics/
 tags:
-  - healthcare
+  - Healthcare
 ---
 
 The Main Work
