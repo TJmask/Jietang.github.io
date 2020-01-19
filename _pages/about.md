@@ -14,12 +14,12 @@ redirect_from:
 
 * I have hands-on exposure in Marketing, Finance, and Healthcare industries.
 
-* I’m currently working on a project about the China futures market. In this project, we aim to find useful patterns and features, and utilize machine learning and deep learning to determine the right timing to buy and sell. Our team will meet once a week and commit our progress through GitHub every day. Right now, I am doing an EDA of the dataset and have found some useful patterns such as ARIMA model and that can be a powerful feature. 
+* I’m currently working on a project about the China futures market. In this project, we aim to find useful patterns and features, and utilize machine learning and deep learning to determine the right timing to buy and sell. Right now, I am doing an EDA of the dataset and have found some useful patterns such as ARIMA model, time buckets, and those can be powerful features. 
 
 ## Interests
 
 * I am a big fan of music. Once I established a music band and I was the leading singer.
-* I love long-distance running. I completed running the third-ring road in Chengdu(30 miles) within 2 days.
+* Long-distance running is one of my hobbies. I completed running the third-ring road in Chengdu(30 miles) within 2 days.
 
 
 
