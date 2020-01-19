@@ -1,10 +1,11 @@
 ---
-title: 'What's HMM?'
-date: 2012-08-14
-permalink: /posts/2012/08/HMM/
+title: 'What's HMM'
+date: 2014-08-14
+permalink: /posts/2014/08/HMM/
 tags:
-  - Machine Learning
+  - cool posts
 ---
+
 What's HMM
 ======
 
