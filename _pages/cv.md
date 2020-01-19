@@ -34,7 +34,7 @@ Work experience
   * Applied Python to crawl 5000+ articles from Zhihu and Wechat subscriptions; removed ads and low-quality articles and posted improved ones in company’s community, boosting productivity by 10% and increasing flows 100000+ 
 
 ### Shanghai Pudong Development Bank, Co., Ltd.   Chengdu, China
-**Data Analyst Summer Intern, Private Banking Department &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;07/2017 - 09/2017**
+**Data Analyst Summer Intern, Private Banking Department &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;07/2017 - 09/2017**
   * Obtained 1000+ pieces of sold financial products data from bank’s database; categorized and cleansed data using Excel, improving data accuracy by 10%
   * Utilized Python and Excel to analyze data, wrote a 5-page report to provide suggestions on modifying financial products which attracted 20+ customers, augmenting product sales by 25%
   
