@@ -1,6 +1,6 @@
 ---
 title: 'China Futures Predicting'
-excerpt: 'This Project is in projgress using Python. I am currently working on the EAD of Copper in China Futures Market. We aim to find useful patterns and features, and utilize machine learning and deep learning to determine the right timing to buy and sell'
+excerpt: 'This Project is in progress using Python. I am currently working on the EAD of Copper in China Futures Market. We aim to find useful patterns and features, and utilize machine learning and deep learning to determine the right timing to buy and sell'
 collection: projects
 permalink: /project/China_Futures_Project/
 tags:
