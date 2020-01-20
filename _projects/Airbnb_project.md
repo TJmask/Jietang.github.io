@@ -1,6 +1,6 @@
 ---
 title: "Airbnb Project"
-excerpt: 'This project is about predicting the daily housing price of Airbnb in Boston Area'
+excerpt: 'This project is about predicting the daily housing price of Airbnb in Boston Area, providing recommendations for both hosts and Airbnb'
 collection: projects
 permalink: /project/Airbnb_project/
 
