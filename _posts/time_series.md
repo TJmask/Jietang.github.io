@@ -1,18 +1,18 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /post/2014/08/time_series/
+title: 'Time Series Analysis in Python'
+date: 2020-01-17
+permalink: /post/time_series/
 tags:
   - cool posts
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
+This blog is about how to implement time series analysis in Python 
 
-Headings are cool
+What's Time Sereies
 ======
 
-You can have many headings
+In Python
 ======
 
-Aren't headings cool?
+Codes
 ------
