@@ -1,1 +1,18 @@
+---
+title: 'Blog Post number 3'
+date: 2014-08-14
+permalink: /post/2014/08/time_series/
+tags:
+  - cool posts
+---
 
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
