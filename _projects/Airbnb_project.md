@@ -1,5 +1,6 @@
 ---
 title: "Airbnb Project"
+date: 10/2019 - 11/2019
 excerpt: 'This project is about predicting the daily housing price of Airbnb in Boston Area, providing recommendations for both hosts and Airbnb'
 collection: projects
 permalink: /project/Airbnb_project/
