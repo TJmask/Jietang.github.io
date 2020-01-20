@@ -1,5 +1,6 @@
 ---
 title: 'Healthcare Analytics Projects'
+date: 10/2019 - 12/2019
 excerpt: 'This is our projects in Healthcare Analytics and Data Mining course, which provides insights in healthcare industry'
 collection: projects
 permalink: /project/Healthcare_Analytics/
