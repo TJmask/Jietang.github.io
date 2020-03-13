@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-* I am currently a 1st year Master of Science student in Business Analytics at Brandeis University. I am focusing on Python, R, SQL, Tableau as well as Git. My undergraduate degree is Financial Engineering and I earned that degree in Sichuan University Chengdu, China.
+* I am currently a 1st year Master of Science student in Business Analytics at Brandeis University. I am focusing on Python, R, SQL, Spark, Cloud Computing, Tableau as well as Git. My undergraduate degree is Financial Engineering and I earned that degree in Sichuan University Chengdu, China.
 
 * My professional background includes a data analyst full time intern at BigQuant in the strategy department and a data analyst summer intern at Shanghai Pudong Development Bank. Some of projects I worked on include predicting the daily house price of Airbnb in Boston and Clustering Analysis of DRGs in healthcare industry.
 
