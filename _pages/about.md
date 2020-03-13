@@ -13,7 +13,7 @@ redirect_from:
 
 * I have hands-on exposure in Marketing, Finance, and Healthcare industries.
 
-* I’m currently working on a project about the China futures market. In this project, we aim to find useful patterns and features, and utilize machine learning and deep learning to determine the right timing to buy and sell. Right now, I am doing an EDA of the dataset and have found some useful patterns such as ARIMA model, time buckets, and those can be powerful features..
+* I’m currently working on a project about the China futures market. In this project, we aim to find useful patterns and features, and utilize machine learning and deep learning to determine the right timing to buy and sell. Right now, I am doing an EDA of the dataset and have found some useful patterns such as ARIMA model, time buckets, and those can be powerful features. HMM and Fourier transformation can also provide helpful information.
 
 Interests
 -------- 
