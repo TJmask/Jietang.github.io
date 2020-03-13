@@ -256,11 +256,9 @@ defaults:
       type: projects
     values:
       layout: single
-      author: Jie Tang
       author_profile: true
       comments: true
       share: true
-      date: false
 
 # Sass/SCSS
 sass:
