@@ -40,13 +40,14 @@ Work experience
   
 Skills
 ======
-* Python: Numpy,Pandas, Scikitlearn, Matplotlib, Seaborn, TA
+* Python: Numpy,Pandas, Scikitlearn, Matplotlib, Seaborn, TA, Pyspark
 * R: Tidyverse, Data Table, ggplot2
 * SQL: Basics, Joins, Aggregate Functions, Subquery, Window Functions
 * Git: Versional Control, Collaborative Programming
 * Tableau: Interactive Dashboards, Informational Visualizations;
 * Statistics: Analytics, Forecasting, Statistical modeling;
 * Machine Learning:(Supervised) Xgboost, KNN, Logistics regression, Lasso, Decision Trees, Random Forests, Naive Bayes; (Unsupervised) PCA, K means clustering, HMM
+* Cloud Computing
   
 Service and leadership
 ======
