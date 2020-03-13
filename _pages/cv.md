@@ -47,7 +47,7 @@ Skills
 * Tableau: Interactive Dashboards, Informational Visualizations;
 * Statistics: Analytics, Forecasting, Statistical modeling;
 * Machine Learning:(Supervised) Xgboost, KNN, Logistics regression, Lasso, Decision Trees, Random Forests, Naive Bayes; (Unsupervised) PCA, K means clustering, HMM
-* Cloud Computing
+* Cloud Computing: AWS
   
 Service and leadership
 ======
