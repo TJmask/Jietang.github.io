@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Tang"
+title                    : "JIE TANG"
 title_separator          : "-"
-name                     : &name "Jie Tang"
+name                     : &name "JIE TANG"
 description              : &description "JIE TANG"
 url                      : https://tjmask.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jie Tang"
   avatar           : "LinkedIn.jpg"
-  bio              : "1st year MSBA Student at Brandeis University, focusing on Python, R, SQL, Tabealu, Machine Learning, Data Analytics"
+  bio              : "1st year MSBA Student at Brandeis University, focusing on Python, R, SQL, Spark, Cloud Computing, Tabealu, Machine Learning, Data Analytics"
   location         : "Waltham, MA"
   employer         :
   pubmed           : 
