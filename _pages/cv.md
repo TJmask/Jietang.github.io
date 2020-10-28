@@ -20,10 +20,6 @@ Education
   * Relevant Coursework: C#, Probabilities, Linear Algebra, Calculus, Statistics, Econometrics, Corporate Finance, Accounting, Macroeconomics, Microeconomics, Finance and Banking
   * Honors: Excellent Student (2016), First-class Scholarship (2016, 2015), Outstanding Trainee in Military Training of Sichuan University (4th out of 190)
 
-### The University of New Mexico&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Albuquerque, NM
-**Exchange Student, GPA: 3.90/4.00, &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;08/2016 - 05/2017**
-  * Relevant Coursework: Application of Statistics, Consumer Economics, Economics Tools
-  * Honors: Outstanding Volunteer of University of New Mexico(2017)
 
 Work experience
 ======
